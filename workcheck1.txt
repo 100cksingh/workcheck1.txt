@@ -1,0 +1,2 @@
+hello friends 
+working in the removing the branch from remote repository
